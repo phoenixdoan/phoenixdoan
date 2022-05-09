@@ -16,6 +16,7 @@ Welcome to my profile! I'm a full time student and aspiring first generation pro
 - :computer: &nbsp;Connect with me on **[LinkedIn](www.linkedin.com/in/phoenixdoan "LinkedIn")**
 - :bird: &nbsp;Let's talk more in **[Twitter]**
 -
+[LinkedIn](www.linkedin.com/in/phoenixdoan)
 
 <br>
 
