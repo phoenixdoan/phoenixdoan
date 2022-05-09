@@ -13,7 +13,7 @@ Welcome to my profile! I'm a full time student and aspiring first generation pro
 - :heart: &nbsp;Fun fact: I'm a huge fan of Disney movies
 <br>
 
-<h2 align="left">📈Github Stats </h2>
+<h3 align="left">📈Github Stats </h3>
 
 [![Phoenix Doan's GitHub stats](https://github-readme-stats.vercel.app/api?username=phoenixdoan&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
