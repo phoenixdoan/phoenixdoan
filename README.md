@@ -13,11 +13,11 @@ Welcome to my profile! I'm a full time student and aspiring first generation pro
 - :writing_hand: &nbsp;I regulary write article on my **[blog]**
 - :speech_balloon: &nbsp;I like to talk about **Web 3.0** and **JavaScript**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**
-- :computer: &nbsp;Connect with me on **[LinkedIn](www.linkedin.com/in/phoenixdoan "LinkedIn")**
+- :computer: &nbsp;Connect with me on **[LinkedIn]**
 - :bird: &nbsp;Let's talk more in **[Twitter]**
 -
-[LinkedIn](www.linkedin.com/in/phoenixdoan)
 
+[linkedIn]: https://www.linkedin.com/in/phoenixdoan "LinkedIn"
 <br>
 
 - 🌍 I'm mostly active within the **Laravel Community**
