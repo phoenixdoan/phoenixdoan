@@ -16,5 +16,7 @@ Welcome to my profile! I'm a full time student and aspiring first generation pro
 
 [![Phoenix Doan's GitHub stats](https://github-readme-stats.vercel.app/api?username=phoenixdoan&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phoenixdoan&layout=compact&theme=swift&align="right")](https://github.com/anuraghazra/github-readme-stats)
+
 [linkedIn]: https://www.linkedin.com/in/phoenixdoan "LinkedIn"
 <br>
